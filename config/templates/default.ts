@@ -15,7 +15,7 @@ export const defaultTemplate: TemplateConfig = {
       TEMPLATE: 'https://github.com/aigem/videos',
       ABOUT: 'https://1pages.nbid.bid/'
     },
-    DEFAULT_IMAGE: 'https://image.edgeone.app/65a6264000add830e775f249e2ae8330/1fc6a0ce97e0459ea1082ee0e2815053/ep-pfzqT2QSij6d.png'
+    DEFAULT_IMAGE: '/images/default.png'
   },
   navigation: [
     {
