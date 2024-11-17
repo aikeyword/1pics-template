@@ -102,7 +102,6 @@ export const defaultTemplate: TemplateConfig = {
       validation: {
         maxLength: 100
       },
-      placeholder: '请输入邮箱地址',
       visible: true,
       description: '图片中的联系部分内容'
     },
