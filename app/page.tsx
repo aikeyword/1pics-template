@@ -179,7 +179,7 @@ export default function Home() {
                             id={field.id}
                             name={field.id}
                             rows={field.rows || 3}
-                            className={`mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm transition-shadow duration-200 ${field.className || ''}`}
+                            className={`mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm transition-shadow duration-200 text-gray-900 ${field.className || ''}`}
                             placeholder={field.placeholder}
                             defaultValue={field.defaultValue}
                           />
@@ -195,7 +195,7 @@ export default function Home() {
                             type={field.type}
                             id={field.id}
                             name={field.id}
-                            className={`mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm transition-shadow duration-200 ${field.className || ''}`}
+                            className={`mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm transition-shadow duration-200 text-gray-900 ${field.className || ''}`}
                             placeholder={field.placeholder}
                             defaultValue={field.defaultValue}
                           />
